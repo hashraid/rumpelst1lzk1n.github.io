@@ -1416,7 +1416,7 @@ Zum anderen hast du ein offizielles Dokument, dass du jemandem unter die Nase ha
 
 Den großen Drohnenführerschein (Kategorie "A2") brauchst du als Anfänger definitiv nicht.
 
-Der Schein kostet abhängig vom Anbieter der Schulung 200-300€. Gegebenenfalls noch mehr, wenn die Schulung mehr ist als ein Online-Kurs und z.B. auch noch Präsenzunterricht beinhaltet.
+Der Schein kostet abhängig vom Anbieter der Schulung 100-300€. Gegebenenfalls noch mehr, wenn die Schulung mehr ist als ein Online-Kurs und z.B. auch noch Präsenzunterricht beinhaltet.
 
 Mit dem großen Schein darfst du näher an Wohngebiete und unbeteiligte Personen fliegen. Und du bekommst leichter eine Sondergenehmigung von der für die jeweilige Region zuständigen Luftfahrtbehörde. Eigentlich brauchst du den Schein nur, wenn du professionell (z.B. als Auftragsarbeit) fliegst.
 
@@ -1446,7 +1446,7 @@ Falls du selbst überlegst, dir einen Drucker zu kaufen, hast du effektiv die Wa
 
 Für das erste Szenario solltest du dich an die beliebten geläufigen Drucker halten. Beispielsweise einen Ender 3. Wie auch bei Drohnen gilt: Für häufig genutzte Sachen findest du online viel Doku für weitere Modifikation.
 
-Für das zweite Szenario empfehle ich einen Drucker von Prussia. Nicht so teuer wie die hochprofesionellen, aber out of the box voll funktionsfähig ohne die Notwendigkeit, viel Zeit in Tuning zu investieren.
+Für das zweite Szenario empfehle ich einen Drucker von Prusa. Nicht so teuer wie die hochprofesionellen, aber out of the box voll funktionsfähig ohne die Notwendigkeit, viel Zeit in Tuning zu investieren.
 
 ### Materialien
 
